@@ -11,7 +11,7 @@ I enjoy learning new technologies and building practical, user-friendly projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dil-zadi-502063367/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9B59B6?style=for-the-badge&logo=vercel)](https://portfolio-delta-two-x1zj6gtl3b.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9B59B6?style=for-the-badge&logo=vercel)](https://dilzadi.vercel.app)
 
 </div>
 
@@ -70,8 +70,7 @@ I enjoy learning new technologies and building practical, user-friendly projects
 
 - GitHub: https://github.com/dilzadi0409
 - LinkedIn: https://www.linkedin.com/in/dil-zadi-502063367/
-- Portfolio: https://portfolio-delta-two-x1zj6gtl3b.vercel.app/
-
+-  Portfolio: https://dilzadi.vercel.app
 ---
 
 <div align="center">
